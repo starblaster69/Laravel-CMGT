@@ -20,3 +20,4 @@ Route::get('/', function () {
 Route::get('/product', function () {
     return view('product');
 });
+//this is a test
